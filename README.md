@@ -31,5 +31,4 @@ This project contains the SQL database design and sample queries for a simple On
 
 ---
 
-**Project by: Your Name**  
-Feel free to extend this project for learning or academic purposes.
+**Project by: Vrushabh Tokse**  
